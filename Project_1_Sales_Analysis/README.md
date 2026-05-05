@@ -57,7 +57,11 @@ Features:
 - KPI cards (Total Sales, Total Profit, Profit Margin)
 - Slicers for filtering data
 
-![Dashboard](dashboard.png)
+### Main Dashboard Overview
+![Sales Performance Dashboard](dashboard_main.png)
+
+### Detailed Analysis View
+![Sales Trends and Profit Analysis](dashboard_details.png)
 
 ---
 
