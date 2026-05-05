@@ -58,7 +58,7 @@ Features:
 - Slicers for filtering data
 
 ### Main Dashboard Overview
-![Sales Performance Dashboard](dashboard_main.png)
+![Sales Performance Dashboard](Dashboard_main.png)
 
 ### Detailed Analysis View
 ![Sales Trends and Profit Analysis](dashboard_details.png)
