@@ -62,6 +62,7 @@ The models were evaluated using:
 Project_2_Customer_Churn_Prediction/
 │
 ├── eda_analysis.png
+├── model_evaluation.png
 ├── README.md
 ├── customer_churn_prediction.ipynb
 ├── Telco-Customer-Churn.csv
