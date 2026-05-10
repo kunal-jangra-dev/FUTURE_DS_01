@@ -138,5 +138,4 @@ Project_3_Marketing_Funnel_Analysis/
 │
 ├── README.md
 ├── E-commerce.ipynb
-├── marketing_Analysis.pdf
-├── 2019-Oct.csv
+├── Marketing_Analysis.pdf
