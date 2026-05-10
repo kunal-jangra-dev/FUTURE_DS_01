@@ -134,5 +134,9 @@ The Power BI dashboard includes:
 
 ## Project Structure
 
-├── dashboard.pbix
-└── README.md
+Project_3_Marketing_Funnel_Analysis/
+│
+├── README.md
+├── E-commerce.ipynb
+├── marketing_Analysis.pdf
+├── 2019-Oct.csv
